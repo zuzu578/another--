@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header class="header-container">
+      <div class="header-left">
+        <div class="left-items">병무청 </div>
+        <div class="left-items">병무민원</div>
+        <div class="left-items">공개/개방 </div>
+
+
+      </div>
+
+      <div class="header-right">
+        <div class="right-items1">접속하기 </div>
+        <div class="right-items2">나만의 누리집 </div>
+
+
+
+      </div>
+
+
+
+    </header>
+
+    <nav class="nav-container">
+      <div class="logo-image">
+        <div class="logo-items"> 
+          <img src="https://www.mma.go.kr/download/content/usr0000248/img3.gif" width="80">
+
+        </div>
+        
+      </div>
+      <div class="nav-menu">
+      <div class="nav-items">민원안내</div>
+      <div class="nav-items">병역판정검사 </div>
+      <div class="nav-items">군지원 </div>
+      <div class="nav-items">현역/상근 </div>
+      <div class="nav-items">사회복무 </div>
+      <div class="nav-items">전문/산업 </div>
+      <div class="nav-items">동원/예비 </div>
+      <div class="nav-items">후보생/공보의등 </div>
+      <div class="nav-items">국외여행/체재 </div>
+      <div class="nav-items">대체역 </div>
+      </div>
+
+
+    </nav>
+   
+    <script src="script.js"></script>
+  </body>
+</html>
