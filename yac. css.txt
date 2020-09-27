@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <nav class="nav-container">
+    <div class="logo-items">
+    <img src="https://www.estsecurity.com/assets/images/logo_estsecurity.png"height="17">
+    <div class="logo-title">개인  </div>
+    </div>
+    <div class="center">
+    <div class="center-menu">보안제품  </div>
+    <div class="center-menu">고객지원  </div>
+    <div class="center-menu">보안정보  </div>
+    <div class="center-menu">보안센터  </div>
+    </div>
+    <div class="right-menu">
+    <div class="right">기업고객   </div>
+     <div class="right">회사소개   </div>
+    </div>
+
+
+
+    </nav>
+    <div class="main-contents1">
+      <div class="main-image">
+      <img src="https://www.estsecurity.com/assets/images/product/bg_alyac_cover.jpg">
+      </div>
+      <div class="infor">
+      <div class="main-title">
+       <h1>1,200만 명이 선택한 국민백신</h1>
+      </div>
+      <div class="subtitle-image">
+        <img src="https://www.estsecurity.com/assets/images/product/logo_alyac.png">
+
+
+      </div>
+      <div class="sub-title-text">
+       <p>각종 악성코드와 랜섬웨어 위협으로부터 내 PC를 안전하게!</br>
+       확실한 탐지력과 편리한 사용성의 대한민국 1위 백신 프로그램</p>
+      </div>
+      <div class="download-button">
+      <div class="download">
+       알약 무료 다운로드
+      </div>
+      </div>
+      <div class="medal-image">
+      <img src="https://www.estsecurity.com/assets/images/product/ico_alyac_medal.png">
+      </div>
+     </div>
+    </div>
+    
+
+
+    <div class="main-contents2">
+      <div class="title-box2">
+      <div class="title2">
+        <h1>내 PC는 늘 안전하다고 믿고 계신가요?</h1>
+
+      </div>
+
+      <div class="sub-title2">
+      <p>눈에 보이지 않아도, 사이버 위협은 다양한 형태와 방법으로 존재합니다.</p>
+
+      </div>
+      </div>
+      <div class="virus-image">
+       <div class="virus-1">
+         <div class="v1-image">
+          <img src="https://www.estsecurity.com/assets/images/product/img_virus_list_1.png">
+         </div>
+         <div class="v1-title">
+          <h3>Cryptojacking</h3>
+         </div>
+         <div class="sub">
+        <span>크립토재킹</span>
+         </div>
+         <div class="infor">
+          <p>갑자기 느려진 내 컴퓨터, 누군가 몰래 침입해서 내 PC를 가상화폐 채굴기로사용하고 있을지 몰라요!</p>
+
+
+         </div>
+
+
+       </div>
+
+       <div class="virus-2"> 
+            <div class="v1-image">
+          <img src="https://www.estsecurity.com/assets/images/product/img_virus_list_2.png">
+         </div>
+         <div class="v1-title">
+          <h3>Malvertising</h3>
+         </div>
+         <div class="sub">
+        <span>멀버타이징</span>
+         </div>
+         <div class="infor">
+          <p>악성코드를 숨기고 있는 인터넷 광고 배너, 클릭도 안하고 보기만 했을뿐인데악성코드가 내 PC로 침입할 수 있다구요?</p>
+
+
+         </div>
+
+
+
+       </div>
+
+
+       <div class="virus-3">
+           <div class="v1-image">
+          <img src="https://www.estsecurity.com/assets/images/product/img_virus_list_3.png">
+         </div>
+         <div class="v1-title">
+          <h3>Ransomware</h3>
+         </div>
+         <div class="sub">
+        <span>랜섬웨어</span>
+         </div>
+         <div class="infor">
+          <p>무방비로 PC에 저장되어있는 문서와 파일, 언제든 해커가 암호화해 인질로 삼기 좋은 표적!</p>
+
+
+         </div>
+
+
+
+       </div>
+
+
+       <div class="virus-4">
+           <div class="v1-image">
+          <img src="https://www.estsecurity.com/assets/images/product/img_virus_list_4.png">
+         </div>
+         <div class="v1-title">
+          <h3>Pharming</h3>
+         </div>
+         <div class="sub">
+        <span>파밍</span>
+         </div>
+         <div class="infor">
+          <p>분명히 은행명을 검색해서 접속한건데, 해커가 똑같이 만들어둔 가짜 사이트를 띄워서 개인정보를 유유히 가로채갈 수 있어요!</p>
+
+
+         </div>
+
+
+
+       </div>
+
+
+
+      </div>
+
+
+
+    </div>
+
+    <div class='main-contents3'>
+      
+
+      <div class="main-contents3-background">
+      <img src="https://www.estsecurity.com/assets/images/product/bg_alyac_2.jpg">
+
+
+      </div>
+      
+      <div class="contents3-title">
+       <h2>하지만 걱정 마세요!</h2>
+       <p>알약이 악성코드와 랜섬웨어 공격으로부터 컴퓨터를 보호합니다.</p>
+
+      </div>
+      
+      <div class="main-contents3-box">
+       <div class="box1">
+         <div class="box-image">
+           <img src="https://www.estsecurity.com/assets/images/product/img_alyac_info_1.png"width="310" height="230">
+
+         </div>
+         <div class="contents3-text-box">
+         <h3>어떤 악성코드도 침입하지 못하도록!   </h3>
+         <p>국내 최다 악성코드 Database를 보유하고,</br> 세가지</br>  멀티엔진으로 악성코드를 정확하게 식별해</br> 어떤 악성코드도 빠져나갈 틈 없는 강력한</br> 탐지가 가능합니다.   </p>
+         </div>
+       </div>
+
+
+       <div class="box2">
+         <div class="box-image">
+           <img src="https://www.estsecurity.com/assets/images/product/img_alyac_info_2.png"width="310" height="230">
+
+         </div>
+         <div class="contents3-text-box">
+         <h3>랜섬웨어 공격도 알약이 사전 차단! </h3>
+         <p>랜섬웨어의 공격 행위를 알약이 미리 탐지하고 차단</br>하여 사용자</br> PC의 소중한 문서와 파일이 암호</br>화되는 것을 막습니다.  </p>
+         </div>
+
+
+
+       </div>
+
+
+       <div class="box3">
+         <div class="box-image">
+           <img src="https://www.estsecurity.com/assets/images/product/img_alyac_info_3.png"width="310" height="230">
+
+         </div>
+         <div class="contents3-text-box">
+         <h3>어려운 PC 보안, 쉽고 간편하게  </h3>
+         <p>실시간 감시를 켜두기만 하면 각종 악성코드 위협</br>을 알약이 알아서 모니터링하고, 검사가 필요할<br/> 땐 한 번의 클릭만으로 쉽게 사용할 수 있습니다   </p>
+         </div>
+
+
+
+       </div>
+       </div>
+ 
+
+
+
+      </div>
+
+
+
+
+    </div>
+
+    <div class="main-contents4">
+      <div class="content4">
+      <div class="text-box4">
+        <div class="title4">
+        <h3> 실시간 감시   </h3>
+        </div>
+       <div class="sub4">
+       <p>인터넷 검색·프로그램 설치 등 PC 사용 중 발생하는 위협을 실시간으로 탐지하고 방어</p>
+
+       </div>
+      </div>
+
+      <div class="contents4-image">
+        <img src="https://www.estsecurity.com/assets/images/product/img_alyac_function_2.png">
+
+
+      </div>
+      </div>
+
+
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
