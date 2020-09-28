@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="wrapper">
+    <nav class="nav-container">
+      <div class="container1">
+    <div class="logo-items">
+     <img src="http://img.cgv.co.kr/R2014/images/title/h1_cgv.png">
+    </div>
+    <div class="menu-box">
+     <div class="image-menu">
+     <div class="image1"><img src="http://img.cgv.co.kr/R2014/images/title/h2_cultureplex.png">   </div>
+      <div class="image2"><img src="http://img.cgv.co.kr/WingBanner/2020/0925/16010176025380.png">   </div>
+  
+     </div>
+     <div class="nav-menu">
+     <div class="n-menu">영화  </div>
+       <div class="n-menu">예매  </div>
+         <div class="n-menu">극장  </div>
+           <div class="n-menu"> 이벤트&컬처  </div>
+           <div class="search-box">
+              <input type="text"> 
+           </div>
+           <div class="button">
+            <div class="button-search"> 검색  </div>
+           </div>
+
+     </div>
+
+    </div>
+      </div>
+
+    </nav>
+    <div class="banner-contents1">
+     <div class="banner-image">
+     <img src="http://img.cgv.co.kr/Front/Main/2020/0901/15989379651690.jpg">
+     </div>
+
+
+    </div>
+
+    <div class="main-contents1">
+      <div class="movie-selection">
+        <div class="movie-selection-title"> 
+        <h3><img src="http://img.cgv.co.kr/R2014/images/title/h3_movie_selection.gif">           </h3>
+        </div>
+        <div class="media-contents1">
+          <div class="video-box">
+          <iframe width="733" height="388" src="https://www.youtube.com/embed/VXjGcWq6VnM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          </div>
+          <div class="image-box">
+           <img src="http://adimg.cgv.co.kr/images/202008/Undead/0928_240x388.jpg">
+
+          </div>
+        </div>
+      </div>
+
+      <div class="event">
+      <div class="event-title">
+      <h3><img src=" http://img.cgv.co.kr/R2014/images/title/h3_event.gif">
+      </div>
+    <div class="event-container">
+      <div class="event-items">CGV스페셜   </div>  
+         <div class="event-items">영화/예매   </div>  
+            <div class="event-items">CGV아트하우스  </div>  
+               <div class="event-items"> 제휴/할인  </div>  
+                  <div class="event-items">멤버십 </div>  
+
+
+      </div>
+    <div class="event-image1">
+     <div class="e-image"> 
+      <img src="http://img.cgv.co.kr/Front/Main/2020/0513/15893602293300.jpg">
+     </div>
+     <div class="e-image"> 
+       <img src="http://img.cgv.co.kr/Front/Main/2020/0304/15832984008920.jpg">
+     </div>
+     <div class="e-image"> 
+       <img src="http://img.cgv.co.kr/Front/Main/2020/0227/15827922236270.jpg">
+     </div>
+     <div class="e-image"> 
+       <img src="http://img.cgv.co.kr/Front/Main/2020/0331/15856157808830.jpg">
+     </div>
+  
+    </div>
+
+    <div class="event-image2">
+     <div class="e-image2">
+      
+       <img src="http://img.cgv.co.kr/Front/Main/2020/0925/16010205631260.png">
+     </div>
+
+      <div class="e-image2">
+      
+       <img src="http://img.cgv.co.kr/R2014/images/main/main_moviecollage.jpg">
+     </div>
+ 
+
+  <div class="e-image2">
+      
+       <img src="http://adimg.cgv.co.kr/images/202003/house/A_226x259.png">
+     </div>
+ 
+ 
+
+    </div>
+
+
+
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+    <footer class="footer">
+    <div class="footer-ad">
+    <img src="http://adimg.cgv.co.kr//images/201709/house/200928_980x240.png">
+
+    </div>
+    </div>
+    </div>
+  </body>
+    <script src="script.js"></script>
+  </body>
+</html>

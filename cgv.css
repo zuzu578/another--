@@ -1,0 +1,172 @@
+*{
+  padding:0;
+  margin:0;
+
+}
+body{
+  background:url("http://img.cgv.co.kr/R2014/images/common/bg/bg_c_bricks.png");
+  width:100%;
+ overflow-x:hidden; 
+ overflow-y:auto;
+}
+.image1{
+  padding-right:30px;
+}
+.button{
+ border:1px solid #e41b10;
+ background:#e41b10;
+ width:25px;
+ height:18px ;
+ color:white;
+ text-align: center;
+ line-height: 18px;
+ font-weight: bold;
+ cursor: pointer;
+}
+.button-search{
+  
+  font-size:11px;
+}
+
+.container1{
+   display: flex;
+  background:#fef9dc;
+  width: 980px;
+  margin:0 auto;
+  justify-content: center;
+  align-items: center;
+  
+}
+.n-menu{
+  padding:20px;
+}
+.menu-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding:10px;
+  
+}
+.nav-container{
+  display: flex;
+  background:#fef9dc;
+  align-items: center;
+  
+}
+
+.image-menu{
+  display: flex;
+  align-items: center;
+}
+
+.nav-menu{
+  display: flex;
+  align-items: center;
+}
+.banner-contents1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+    height: 100%;
+}
+
+.main-contents1,.movie-selection{
+  background: #fcfcf0;
+}
+.main-contents1{
+ padding-top:40px;
+}
+.movie-selection-title{
+  text-align: center;
+
+}
+
+.media-contents1{
+  width:980px;
+  margin:0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.event{
+  padding-top:100px;
+  width:980px;
+  margin:0 auto;
+}
+.event-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.event-container{
+  display: flex;
+  width:980px;
+  margin:0 auto;
+  justify-content: center;
+  border:1px solid #e61a0f;
+  background:#e61a0f;
+  padding:10px;
+  border-radius: 25px;
+  margin-top:20px;
+  
+
+  
+}
+
+.event-items{
+  padding:0 15px;
+  color:white;
+  font-size:15px;
+  font-weight: bold;
+
+}
+
+.event-image1{
+  display: flex;
+  justify-content: space-between;
+  margin-top:20px;
+  border-bottom:3px solid black;
+  padding-bottom:30px;
+}
+
+.event-image2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top:20px;
+}
+input[type="text"]{
+  width:100px;
+  height:16px ;
+}
+.image2{
+  padding-left:40px;
+}
+.image1{
+  padding-top:20px;
+  padding-left:40px;
+}
+.footer-ad{
+  display: flex;
+  justify-content: center;
+  background:#e5852f;
+  margin-top:50px;
+ 
+}
+.footer{
+   background:#e5852f;
+}
+
+.n-menu{
+ 
+   
+  
+    text-align: center;
+    font-weight: bold;
+}
+@media screen and(max-width:800px){
+  
+  
+}
